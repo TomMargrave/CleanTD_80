@@ -1,4 +1,4 @@
-# UFTLogs.vbs
+# CleanTD_80.vbs
 VBScript CleanTD_80.vbs is used to assist in clearing out HPE ALM temporary directory.  The folder is located under %temp$\TD_80.  This folder holds all of the test and data locally on client machine to allow the client machine to run or perform operations. Currently there is no method clean up old or un-used files from the TD_80 Folder.
 
 ## Purpose
